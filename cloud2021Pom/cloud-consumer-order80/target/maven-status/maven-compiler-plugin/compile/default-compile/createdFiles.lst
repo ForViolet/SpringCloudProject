@@ -1,3 +1,6 @@
 com\ly\controller\OrderController.class
+com\lys\myrole\MySelfRole.class
 com\ly\OrderMain80.class
+com\ly\lb\LoadBalancer.class
 com\ly\config\ApplicationContextConfig.class
+com\ly\lb\MyLB.class
