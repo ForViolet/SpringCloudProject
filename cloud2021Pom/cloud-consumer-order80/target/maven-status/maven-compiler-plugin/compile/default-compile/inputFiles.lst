@@ -1,3 +1,6 @@
 G:\Java\Java Projects\SpringCloud\cloudProjects\cloud2021Pom\cloud-consumer-order80\src\main\java\com\ly\OrderMain80.java
 G:\Java\Java Projects\SpringCloud\cloudProjects\cloud2021Pom\cloud-consumer-order80\src\main\java\com\ly\controller\OrderController.java
 G:\Java\Java Projects\SpringCloud\cloudProjects\cloud2021Pom\cloud-consumer-order80\src\main\java\com\ly\config\ApplicationContextConfig.java
+G:\Java\Java Projects\SpringCloud\cloudProjects\cloud2021Pom\cloud-consumer-order80\src\main\java\com\ly\lb\LoadBalancer.java
+G:\Java\Java Projects\SpringCloud\cloudProjects\cloud2021Pom\cloud-consumer-order80\src\main\java\com\lys\myrole\MySelfRole.java
+G:\Java\Java Projects\SpringCloud\cloudProjects\cloud2021Pom\cloud-consumer-order80\src\main\java\com\ly\lb\MyLB.java
