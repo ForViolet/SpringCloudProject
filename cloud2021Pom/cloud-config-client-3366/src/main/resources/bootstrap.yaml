@@ -1,5 +1,5 @@
 server:
-  port: 3355
+  port: 3366
 
 spring:
   application:
@@ -19,7 +19,6 @@ spring:
     username: alice
     password: 123
 
-#服务注册到eureka
 eureka:
   client:
     service-url:

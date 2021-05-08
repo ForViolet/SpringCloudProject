@@ -12,6 +12,14 @@ spring:
       uri: http://localhost:3344  #配置中心地址
       #综合 http://config-3344.com:3344/main/config-dev.yml
 
+  #RabbitMQ相关配置
+  rabbitmq:
+    host: 192.168.232.134
+    port: 5672
+    username: alice
+    password: 123
+
+#服务注册到eureka
 eureka:
   client:
     service-url:
